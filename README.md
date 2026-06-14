@@ -4,6 +4,15 @@
 
 This repository showcases a collection of hands-on cybersecurity projects focused on Threat Intelligence, Network Security, and Web Application Security. The work demonstrates practical experience in traffic analysis, phishing investigation, vulnerability assessment, reconnaissance, and web security testing using industry-standard tools and methodologies.
 
+> [!NOTE]
+> 1. Local Network Port Scanning using Nmap https://github.com/justcodeSK/CYB_TSK-1.
+> 2. Phishing Email Analysis https://github.com/justcodeSK/CYB_TSK-2.
+> 3. Vulnerability Scan  https://github.com/justcodeSK/CYB_TSK-3.
+> 4. Firewall Configuration and Traffic Filtering https://github.com/justcodeSK/CYB_TSK-4.
+> 5. Capture and Analyze Network Traffic Using Wireshark https://github.com/justcodeSK/CYB_TSK-5.
+> 6. Create and Evaluate Strong Passwords https://github.com/justcodeSK/CYB_TSK-6.
+> 7. PortSwigger Web Security Academy  https://github.com/justcodeSK/PortSwigger-Academy-Writeups.
+
 ## Skills Demonstrated
 
 * Threat Hunting & IOC Analysis
